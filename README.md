@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in [Morse code](https://en.wikipedia.org/wiki/Morse_code). Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
 
 ## Built With
 
@@ -34,6 +34,12 @@ ruby morse_decoder.rb
 ```
 
 ## Authors
+
+👤 **Santiago**
+
+- GitHub: [@githubhandle](https://github.com/Santiago220991)
+- Twitter: [@twitterhandle](https://twitter.com/SanCardenas10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandersantiagocardenas/)
 
 👤 **Roberto A. Baños Alvarez**
 
